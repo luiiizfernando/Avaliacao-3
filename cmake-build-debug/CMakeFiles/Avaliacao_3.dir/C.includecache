@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fernando/Documentos/Avaliacao 3/com112_hash.h
+
+/home/fernando/Documentos/Avaliacao 3/main.c
+stdio.h
+-
+stdlib.h
+-
+com112_hash.h
+/home/fernando/Documentos/Avaliacao 3/com112_hash.h
+
